@@ -9,6 +9,9 @@ export const karuraControllers: ControllerConfig = {
 	controllers: [
 		'AccountsBalanceInfo',
 		'AccountsValidate',
+		'AccountsStakingInfo',
+		'AccountsStakingPayouts',
+		'AccountsVestingInfo',
 		'Blocks',
 		'BlocksExtrinsics',
 		'NodeNetwork',
